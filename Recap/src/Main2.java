@@ -14,6 +14,6 @@ public class Main2 {
 	public static void main(String[] args) {
 		System.out.println("1.0.1");
 		B obj2 = new B();
-		obj2.meth1(30, 20);
+		obj2.meth1(30, 30);
 	}
 }
